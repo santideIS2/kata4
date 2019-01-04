@@ -21,7 +21,7 @@ public class Kata4 {
     }
 
     public static void main(String[] args) {
-        Kata4 kata4 = new Kata4("emailsfile.txt");
+        Kata4 kata4 = new Kata4("email.txt");
  
         try {
             kata4.execute();
